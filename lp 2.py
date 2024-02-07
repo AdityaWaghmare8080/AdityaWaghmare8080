@@ -1,1 +1,1 @@
-print ("aditya waghmare")
+print("aditya waghmare")
